@@ -1,0 +1,8 @@
+
+	<Category> Chopper Items
+		Chopper_Step_Ladder_2,							*,		400,		200
+		Chopper_RoofKit,								*,		200,		100
+		Chopper_FloorKit,								*,		200,		100
+		Chopper_WallKit,								*,		200,		100
+		Chopper_PostKit,								*,		50,			25
+		

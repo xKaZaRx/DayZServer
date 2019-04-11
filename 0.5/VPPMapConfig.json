@@ -1,0 +1,309 @@
+{
+    "M_STATIC_MARKER_ARRAY": [
+        {
+            "M_MARKER_NAME": "Zelenogorsk",
+            "M_ICON_PATH": "VanillaPPMap\\scripts\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                2690,
+                0,
+                5331
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "CHERNO",
+            "M_ICON_PATH": "VanillaPPMap\\scripts\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                6725,
+                0,
+                2735
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "ELEKTRO",
+            "M_ICON_PATH": "VanillaPPMap\\scripts\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                10279,
+                0,
+                2291
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Vybor",
+            "M_ICON_PATH": "VanillaPPMap\\scripts\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                3804,
+                0,
+                8891
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "NOVAYA",
+            "M_ICON_PATH": "VanillaPPMap\\scripts\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                3427,
+                0,
+                12998
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Tisy Mil Base",
+            "M_ICON_PATH": "VanillaPPMap\\scripts\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                1659,
+                0,
+                13989
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Grozovoy Pass",
+            "M_ICON_PATH": "VanillaPPMap\\scripts\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                3361,
+                0,
+                15204
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Severograd",
+            "M_ICON_PATH": "VanillaPPMap\\scripts\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                8043,
+                0,
+                12648
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Cernaya Polana",
+            "M_ICON_PATH": "VanillaPPMap\\scripts\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                12091,
+                0,
+                13631
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Svetloyarsk",
+            "M_ICON_PATH": "VanillaPPMap\\scripts\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                13927,
+                0,
+                13259
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Gorka",
+            "M_ICON_PATH": "VanillaPPMap\\scripts\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                9602,
+                0,
+                8887
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Dolina",
+            "M_ICON_PATH": "VanillaPPMap\\scripts\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                11376,
+                0,
+                6600
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Staroye",
+            "M_ICON_PATH": "VanillaPPMap\\scripts\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                10088,
+                0,
+                5488
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Rog Castle",
+            "M_ICON_PATH": "VanillaPPMap\\scripts\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                11251,
+                0,
+                4279
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Mogilevka",
+            "M_ICON_PATH": "VanillaPPMap\\scripts\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                7541,
+                0,
+                5163
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Pavlovo Mil Base",
+            "M_ICON_PATH": "VanillaPPMap\\scripts\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                2173,
+                0,
+                3382
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Zabolotye",
+            "M_ICON_PATH": "VanillaPPMap\\scripts\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                1181,
+                0,
+                10020
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Devil's Castle",
+            "M_ICON_PATH": "VanillaPPMap\\scripts\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                6900,
+                0,
+                11434
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Krasnostav",
+            "M_ICON_PATH": "VanillaPPMap\\scripts\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255,
+                255,
+                255
+            ],
+            "M_POSITION": [
+                11062,
+                0,
+                12347
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        }        
+    ],
+    "m_CanUse3DMarkers": 1
+}
